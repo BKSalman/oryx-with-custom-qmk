@@ -9,6 +9,7 @@ enum custom_keycodes {
   HSV_0_255_255,
   HSV_74_255_255,
   HSV_169_255_255,
+  SMTD_KEYCODES_BEGIN,
   CKC_A,
   CKC_S,
   CKC_D,
